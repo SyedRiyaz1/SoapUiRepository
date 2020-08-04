@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="56b2ab89-dd97-4ce6-bdbb-13926b355f0e" activeEnvironment="Default" name="CurrencyConVerter" resourceRoot="" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:properties><con:property><con:name>Riyaz</con:name><con:value>inmdar</con:value></con:property></con:properties><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/></con:soapui-project>

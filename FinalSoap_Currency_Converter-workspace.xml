@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Country_Info" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="CountryInfoService_By_Using_SOAP">F:/Soap_work_space/CountryInfoService-soapui-project.xml</con:project>
+  <con:project name="REST Project1">C:/Users/home/Documents/REST-Project-1-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
